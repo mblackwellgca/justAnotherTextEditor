@@ -6,8 +6,8 @@ A text editor that runs in the browser and is a single-page application that fea
 
 ## Live Links
 
-- 📽️ Demo:
-- 🌍 Repository:
+- 📽️ Deployed app:
+- 🌍 Repository: https://github.com/mblackwellgca/justAnotherTextEditor
 
 ## Description
 
