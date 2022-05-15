@@ -6,7 +6,7 @@ A text editor that runs in the browser and is a single-page application that fea
 
 ## Live Links
 
-- 📽️ Deployed app:
+- 📽️ Deployed app: https://still-everglades-84797.herokuapp.com/
 - 🌍 Repository: https://github.com/mblackwellgca/justAnotherTextEditor
 
 ## Description
@@ -73,6 +73,7 @@ The following image shows the application's IndexedDB storage:
 - 🔗 https://stackoverflow.com/
 - 🔗 https://chooselicense.com/
 - 🔗 https://img.shields.io/
+- 🔗 https://heroku.com
 
 
 ## License
